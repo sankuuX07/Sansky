@@ -76,6 +76,79 @@ Digital platform connecting farmers with veterinary doctors
 
 ### 🔧 Tools & Development
 
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 ARENA
+
+**Competitive Learning & Placement Platform**
+
+A platform designed to bring coding, aptitude, communication, technical preparation and assessments into one place.
+
+**Tech:** Python • React • Firebase
+
+</td>
+
+<td width="50%">
+
+### 🔐 SecurePrint
+
+**Secure Digital Printing Platform**
+
+A secure system connecting customers with printing shops while managing documents, print jobs, authentication and secure document access.
+
+**Tech:** Python • FastAPI • SQLite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐄 Animal Disease Detector
+
+**Veterinary Assistance Platform**
+
+A platform that allows farmers to upload animal infection images and connect with doctors for suggestions and appointments.
+
+**Tech:** Python • Flask • HTML • CSS
+
+</td>
+
+<td width="50%">
+
+### 🎮 Gaming / Streaming Projects
+
+**Gaming & Creator Projects**
+
+Experiments and projects related to gaming, streaming, screen mirroring and content creation.
+
+**Tech:** Python • Web Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 More Projects
+
+<div align="center">
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="50"/>
 </p>
