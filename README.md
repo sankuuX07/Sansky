@@ -19,3 +19,36 @@
 </a>
 
 </div>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://github.com/user-attachments/assets/3f4e2f0f-7d2c-4e7b-8f9a-3d7c3c6b7b8a" />
+
+* 🎓 Computer Engineering student
+* 💻 Passionate about **Full-Stack Development**
+* 🚀 Building projects that solve real-world problems
+* 🔐 Currently working on **SecurePrint**
+* 🏆 Building **ARENA — Competitive Learning Platform**
+* 🌱 Currently exploring **Backend, APIs & Cloud**
+* ⚡ Love turning ideas into working products
+* 🎯 Always learning, building and improving
+
+<br clear="right"/>
+
+---
+
+## 🧠 What I'm Currently Working On
+
+```text
+🚀 ARENA
+Student competitive learning & placement platform
+
+🔐 SecurePrint
+Secure digital printing management platform
+
+🐄 Animal Disease Detector
+Digital platform connecting farmers with veterinary doctors
+```
+
+---
