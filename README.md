@@ -154,3 +154,92 @@ Experiments and projects related to gaming, streaming, screen mirroring and cont
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Sansku-Desktop
+
+High-performance low-latency **iPhone → Windows game streaming application**.
+
+**Tech:** C++ • Windows • Networking
+
+<br>
+
+<a href="https://github.com/sankuuX07/Sansku-Desktop">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎬 Sansky Editor
+
+AI-powered **gaming video editing assistant** with Adobe Premiere Pro automation.
+
+**Tech:** Python
+
+<br>
+
+<a href="https://github.com/sankuuX07/sansky-editor">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏆 ARENA
+
+Competitive learning and **placement-preparation platform** designed for students.
+
+**Tech:** TypeScript • React • Firebase
+
+<br>
+
+<a href="https://github.com/sankuuX07/ARENA">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔐 SecurePrint
+
+Secure digital printing platform for **customers and printing shops**.
+
+**Tech:** Python • FastAPI • SQLite
+
+<br>
+
+<a href="https://github.com/sankuuX07/SecurePrint">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📂 All Repositories
+
+<div align="center">
+
+<a href="https://github.com/sankuuX07?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+---
