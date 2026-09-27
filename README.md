@@ -52,3 +52,32 @@ Digital platform connecting farmers with veterinary doctors
 ```
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" height="50"/>
+</p>
+
+### ⚙️ Frameworks & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,react,nodejs" height="50"/>
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" height="50"/>
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="50"/>
+</p>
+
+---
