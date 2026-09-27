@@ -243,3 +243,24 @@ Secure digital printing platform for **customers and printing shops**.
 
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sankuuX07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankuuX07&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sankuuX07&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
